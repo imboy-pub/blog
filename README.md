@@ -5,6 +5,6 @@
 
 ## flutter
 
-* [Niku: Thought Process of Designing a Balance Framework](./niku-thought-process-of-designing-a-balance-framework.html)
+* [Niku: Thought Process of Designing a Balance Framework](./niku-thought-process-of-designing-a-balance-framework.md)
 
 ## SQL

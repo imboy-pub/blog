@@ -2,9 +2,6 @@
 <!-- saved from url=(0032)http://127.0.0.1:51004/view/3409 -->
 <html>
   <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-    <title>niku-thought-process-of-designing-a-balance-framework.md</title>
-    <link rel="stylesheet" type="text/css" href="./niku-thought-process-of-designing-a-balance-framework/github.css">
   </head>
   <body>
     <div class="container">
@@ -19,20 +16,7 @@
         </article>
       </div>
     </div>
-  
-  <script type="text/x-omnimarkup-config;executed=true">
-    window.App.Context = {
-      buffer_id: 3409,
-      timestamp: '1654063967.460802',
-      revivable_key: 'L1VzZXJzL2xlZXlpL0Rvd25sb2Fkcy9uaWt1LXRob3VnaHQtcHJvY2Vzcy1vZi1kZXNpZ25pbmctYS1iYWxhbmNlLWZyYW1ld29yay5tZA=='
-    };
-    window.App.Options = {
-      ajax_polling_interval: 500,
-      mathjax_enabled: false
-    };
-  </script>
-  <script type="text/javascript" src="./niku-thought-process-of-designing-a-balance-framework/jquery-2.1.3.min.js"></script>
-  <script type="text/javascript" src="./niku-thought-process-of-designing-a-balance-framework/imagesloaded.pkgd.min.js"></script>
-  <script type="text/javascript" src="./niku-thought-process-of-designing-a-balance-framework/app.js"></script>
-
 </body></html>
+
+<script type="text/javascript" src="./niku-thought-process-of-designing-a-balance-framework/imagesloaded.pkgd.min.js"></script>
+
